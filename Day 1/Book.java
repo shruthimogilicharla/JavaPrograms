@@ -16,7 +16,8 @@ public class Book {
     // Parameterized constructor
     public Book(int id, String title, String author,
                 String publisher, int year,
-                String isbn, double price) {
+                String isbn, double price) 
+    {
 
         this.id = id;
         this.title = title;
