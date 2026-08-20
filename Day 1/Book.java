@@ -9,7 +9,7 @@ public class Book {
     private int year;
     private String isbn;
     private double price;
-    
+
     // Default constructor
     public Book() {
     }
