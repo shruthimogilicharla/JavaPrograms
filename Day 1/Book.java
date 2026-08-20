@@ -107,7 +107,6 @@ public class Book {
     public void setIsbn(String isbn) {
         this.isbn = isbn;
     }
-
     public double getPrice() {
         return price;
     }
