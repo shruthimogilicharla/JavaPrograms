@@ -2,7 +2,6 @@
 package com.example.ooplab.week1;
 
 public class Book {
-    
     private int id;
     private String title;
     private String author;
