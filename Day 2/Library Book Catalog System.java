@@ -1,5 +1,6 @@
 import java.util.Scanner;
 class Book {
+    
     String title, author, publisher, isbn;
     int year;
     double price;
