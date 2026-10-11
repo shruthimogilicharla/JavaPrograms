@@ -1,5 +1,4 @@
 class BankAccount {
-    
     String accountHolder, accountType;
     int accountNumber;
     double balance;
