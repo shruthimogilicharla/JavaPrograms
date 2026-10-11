@@ -1,5 +1,6 @@
 class Employee { 
 // Outer class attributes 
+    
 int id; 
 String name; 
 double baseSalary; 
