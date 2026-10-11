@@ -1,5 +1,6 @@
 // Base Class 
 class Vehicle { 
+    
     String vehicleNo, brand; 
     double baseFare; 
     Vehicle(String vNo, String br, double fare) { 
