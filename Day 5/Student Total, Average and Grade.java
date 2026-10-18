@@ -1,5 +1,6 @@
 import java.util.Scanner;
-class Student {
+class Student 
+{
     String name;
     int rollNo, total;
     int[] marks;
