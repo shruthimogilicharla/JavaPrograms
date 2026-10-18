@@ -1,5 +1,4 @@
 import java.util.Scanner; 
-
 class ATMPinChecker { 
 // Attributes 
 String username; 
