@@ -1,4 +1,5 @@
-class Employee { 
+class Employee
+    { 
 // Outer class attributes 
     
 int id; 
