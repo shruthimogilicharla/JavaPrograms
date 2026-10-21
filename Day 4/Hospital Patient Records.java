@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class Patient
     {
+        
     int patientId, age;
     String name, problem, doctorAssigned;
     double feePaid;
